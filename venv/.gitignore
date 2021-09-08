@@ -1,4 +1,2 @@
 # created by virtualenv automatically
-*pyvenv.cfg
-
-*settings.py
+/Users/richie/dev/djangoBoard/community/manage.py
